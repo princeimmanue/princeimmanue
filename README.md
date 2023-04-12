@@ -8,9 +8,9 @@ Skills
     Ethical Hacking: Kali Linux, 
 
 Projects
-    
-    Electricity bill calculator using c++ 
-    Multiplication table using c++
+     
+    Electricity bill calculator using c++  link:https://github.com/princeimmanue/Electricity-bill-calculator-using-cpp
+    Multiplication table using c++ link: https://github.com/princeimmanue/Multiplication-table-using-cpp-language-
 
 
 Education
