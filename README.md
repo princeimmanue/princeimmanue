@@ -8,6 +8,9 @@ Skills
     Ethical Hacking: Kali Linux, 
 
 Projects
+    
+    Electricity bill calculator using c++ 
+    Multiplication table using c++
 
 
 Education
