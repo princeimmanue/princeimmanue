@@ -1,24 +1,21 @@
-Hi there, I'm Prince Immanuel 👋
+<h1 align="center">Hi 👋, I'm Prince Immanuel</h1>
+<h3 align="center">A passionate CyberSecurity and Backend developer from India</h3>
 
-I am a programmer and currently studying to become an ethical hacker. I am a student and constantly seeking new challenges to enhance my skills and knowledge.
-Skills
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=princeimmanue&label=Profile%20views&color=0e75b6&style=flat" alt="princeimmanue" /> </p>
 
-    Programming Languages: Java, Python, JavaScript, C++ , C,
-    Web Technologies: HTML, CSS,
-    Ethical Hacking: Kali Linux, 
+- 🌱 I’m currently learning **Cyber Security , Backend Development**
 
-Projects
-     
-    Electricity bill calculator using c++  link:https://github.com/princeimmanue/Electricity-bill-calculator-using-cpp
-    Multiplication table using c++ link: https://github.com/princeimmanue/Multiplication-table-using-cpp-language-
+- 💬 Ask me about **Cyber Security**
 
+- 📫 How to reach me **princeimmanue@gmail.com**
 
-Education
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/princeimmanue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="princeimmanue" height="30" width="40" /></a>
+<a href="https://instagram.com/princeimmanue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="princeimmanue" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/princeimmanue" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="princeimmanue" height="30" width="40" /></a>
+</p>
 
-    B.Tech in Information Technology, Kings Engineering College (2021 - 2025)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Contact
-
-    Email: princeimmanue@gmail.com
-    LinkedIn: https://www.linkedin.com/in/prince-immanuel-803a82236/
-    Twitter: @immanuel-josheph
